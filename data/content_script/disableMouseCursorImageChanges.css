@@ -1,0 +1,6 @@
+/* Define a custom cursor style for the entire body */
+body.no-hover-cursor {
+    /*cursor: url('custom-cursor.png'), auto;*/
+    cursor: url('data/content_script/icons/remove.svg'), auto;
+  }
+
